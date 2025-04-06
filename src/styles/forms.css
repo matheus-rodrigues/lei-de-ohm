@@ -1,0 +1,74 @@
+
+.background {
+  min-height: 90vh;
+}
+
+.background-rec{
+  min-height: 90vh;
+}
+
+.conteudo {
+  text-align: center;
+  margin: 30px;
+}
+
+.conteudo h1 {
+  margin-bottom: 30px;
+}
+
+.conteudo-rec{
+  margin-top: 100px;
+}
+
+.titulo-formula {
+  margin: auto;
+  text-align: center;
+  font-size: 3rem;
+  color: white;
+}
+
+.formula {
+  text-align: center;
+  margin: 10px 0;
+  font-size: 1.5rem;
+}
+
+p{
+  font-size: 40px;
+}
+
+footer {
+  background-color: rgb(53, 50, 49);
+  height: 60px;
+}
+footer > div {
+  display: grid;
+  height: 100%;
+  grid-template-columns: 2fr 8fr 1fr;
+  align-items: center;
+}
+
+footer > div > div:first-child {
+  margin-left: 32px;
+  text-align: left;
+  font-size: 30px;
+}
+
+footer > div > div:last-child {
+  text-align: right;
+  font-size: 30px;
+}
+
+footer a {
+  color: white;
+  text-decoration: none;
+}
+
+@media (max-width: 450px){
+  .background{
+    min-height: 0;
+  }
+  p{
+    font-size: 24px;
+  }
+}
