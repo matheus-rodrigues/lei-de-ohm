@@ -1,0 +1,1 @@
+Projeto desenvolvidos pelos alunos do 1° semestre da Universidade Paulista - campus São José dos Campos. Trata-se de um site compostos por diversas páginas HTML sobre as Leis de Ohm. O projeto tem o caráter interdisciplinar e contou com conceitos abordados em diversas disciplinas do semestre, como Programação Web Responsiva e Física para Computação.
